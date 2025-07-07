@@ -1,3 +1,4 @@
+#This game is a simple Rock, Paper, Scissors between yourself and the computer. 
 import random
 
 def intro():
